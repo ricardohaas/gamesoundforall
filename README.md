@@ -14,5 +14,9 @@ Virtual Cable Audio
 Create new audio source for specific game our application and set the 
 option monitor and forward to virtual cable.
 
+To run
 
-![img_1.png](example.png)
+#python soundbars.py
+
+![example.png](example.png)
+
