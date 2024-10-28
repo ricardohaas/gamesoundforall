@@ -5,7 +5,7 @@ Project to provide extra accessibility for games, offering visual information fo
 Install python 3.8.2 or superior. Install pip to manage packages and install
 extra packages 
 
-#pip install PyQt5 sounddevice
+#pip install PyQt5 sounddevice numpy
 
 OBS Studio
 
